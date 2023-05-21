@@ -1,0 +1,177 @@
+---
+title: "Lecture notes"
+---
+
++ Chapter 1: 
+  + Parametric and Nonparametric Methods 
+```{r, echo=FALSE, out.width = '800px', out.height = '400px', results='asis'}
+cat('<embed src="./Lecture notes/Chapter 1_1.pdf" 
+    type="application/pdf" 
+    width="100%" height="400px" />')
+```
+  + Binomial problem 
+```{r, echo=FALSE, out.width = '800px', out.height = '400px', results='asis'}
+cat('<embed src="./Lecture notes/Chapter 1_2.pdf" 
+    type="application/pdf" 
+    width="100%" height="400px" />')
+```
+
++ Chapter 2: 
+  + Wilcoxon Signed Rank Test 
+```{r, echo=FALSE, out.width = '800px', out.height = '400px', results='asis'}
+cat('<embed src="./Lecture notes/Chapter 2_1.pdf" 
+    type="application/pdf" 
+    width="100%" height="400px" />')
+```
+
+  + Signed Test 
+```{r, echo=FALSE, out.width = '800px', out.height = '400px', results='asis'}
+cat('<embed src="./Lecture notes/Chapter 2_2.pdf" 
+    type="application/pdf" 
+    width="100%" height="400px" />')
+```
+
+  + A Comparison of Statistical Tests  
+```{r, echo=FALSE, out.width = '800px', out.height = '400px', results='asis'}
+cat('<embed src="./Lecture notes/Chapter 2_3.pdf" 
+    type="application/pdf" 
+    width="100%" height="400px" />')
+```
+
+  + Paired Comparisons  
+```{r, echo=FALSE, out.width = '800px', out.height = '400px', results='asis'}
+cat('<embed src="./Lecture notes/Chapter 2_4.pdf" 
+    type="application/pdf" 
+    width="100%" height="400px" />')
+```
+
++ Chapter 3: 
+  + Two-Sample Permutation Test 
+```{r, echo=FALSE, out.width = '800px', out.height = '400px', results='asis'}
+cat('<embed src="./Lecture notes/Chapter 3_1.pdf" 
+    type="application/pdf" 
+    width="100%" height="400px" />')
+```
+
+  + Wilcoxon Rank-Sum Test 
+```{r, echo=FALSE, out.width = '800px', out.height = '400px', results='asis'}
+cat('<embed src="./Lecture notes/Chapter 3_2.pdf" 
+    type="application/pdf" 
+    width="100%" height="400px" />')
+```
+
+` + Why ranks? Scoring systems
+```{r, echo=FALSE, out.width = '800px', out.height = '400px', results='asis'}
+cat('<embed src="./Lecture notes/Chapter 3_3.pdf" 
+    type="application/pdf" 
+    width="100%" height="400px" />')
+```
+
+  + Tests for Equality of Scale Parameters 
+```{r, echo=FALSE, out.width = '800px', out.height = '400px', results='asis'}
+cat('<embed src="./Lecture notes/Chapter 3_4.pdf" 
+    type="application/pdf" 
+    width="100%" height="400px" />')
+```
+
+  + Kolmogorov-Smirnov test
+```{r, echo=FALSE, out.width = '800px', out.height = '400px', results='asis'}
+cat('<embed src="./Lecture notes/Chapter 3_5.pdf" 
+    type="application/pdf" 
+    width="100%" height="400px" />')
+```
+
++ Chapter 4: 
+  + Kruskal-Wallis Test
+```{r, echo=FALSE, out.width = '800px', out.height = '400px', results='asis'}
+cat('<embed src="./Lecture notes/Chapter 4_1.pdf" 
+    type="application/pdf" 
+    width="100%" height="400px" />')
+```
+
+  + Jonckheere-Terpstra Test for Ordered Alternatives 
+```{r, echo=FALSE, out.width = '800px', out.height = '400px', results='asis'}
+cat('<embed src="./Lecture notes/Chapter 4_2.pdf" 
+    type="application/pdf" 
+    width="100%" height="400px" />')
+```
+
+  + Fligner-Wolfe Test for Treatments versus a Control 
+```{r, echo=FALSE, out.width = '800px', out.height = '400px', results='asis'}
+cat('<embed src="./Lecture notes/Chapter 4_3.pdf" 
+    type="application/pdf" 
+    width="100%" height="400px" />')
+```
+
+  + Multiple Comparisons
+```{r, echo=FALSE, out.width = '800px', out.height = '400px', results='asis'}
+cat('<embed src="./Lecture notes/Chapter 4_4.pdf" 
+    type="application/pdf" 
+    width="100%" height="400px" />')
+```
+
+  + Two-Sided All-Treatments Multiple Comparisons for General Alternative  
+```{r, echo=FALSE, out.width = '800px', out.height = '400px', results='asis'}
+cat('<embed src="./Lecture notes/Chapter 4_5.pdf" 
+    type="application/pdf" 
+    width="100%" height="400px" />')
+```
+
+  + One-Sided All-Treatments Multiple Comparisons for Ordered Treatment Effects Alternatives 
+```{r, echo=FALSE, out.width = '800px', out.height = '400px', results='asis'}
+cat('<embed src="./Lecture notes/Chapter 4_6.pdf" 
+    type="application/pdf" 
+    width="100%" height="400px" />')
+```
+
+  + One-Sided Treatments-versus-Control Multiple Comparisons for Treatment-versus-Control Alternatives
+```{r, echo=FALSE, out.width = '800px', out.height = '400px', results='asis'}
+cat('<embed src="./Lecture notes/Chapter 4_7.pdf" 
+    type="application/pdf" 
+    width="100%" height="400px" />')
+```
+
++ Chapter 5: 
+  + Friedman test for General Alternatives in a Randomized Complete Block Design
+```{r, echo=FALSE, out.width = '800px', out.height = '400px', results='asis'}
+cat('<embed src="./Lecture notes/Chapter 5_1.pdf" 
+    type="application/pdf" 
+    width="100%" height="400px" />')
+```
+
+  + Two-Sided All-Treatments Multiple Comparisons for General Alternative in a Randomized Complete Block Design 
+```{r, echo=FALSE, out.width = '800px', out.height = '400px', results='asis'}
+cat('<embed src="./Lecture notes/Chapter 5_2.pdf" 
+    type="application/pdf" 
+    width="100%" height="400px" />')
+```
+
+  + Mack-Skillings test for General Alternatives in a Randomized Block Design with Equal Number of Replications Per treatment-Block Combination 
+```{r, echo=FALSE, out.width = '800px', out.height = '400px', results='asis'}
+cat('<embed src="./Lecture notes/Chapter 5_3.pdf" 
+    type="application/pdf" 
+    width="100%" height="400px" />')
+```
+
+  + Two-Sided All-Treatments Multiple Comparisons for General Alternative in a Randomized Block Design with Equal Number of Replications Per treatment-Block Combination
+```{r, echo=FALSE, out.width = '800px', out.height = '400px', results='asis'}
+cat('<embed src="./Lecture notes/Chapter 5_4.pdf" 
+    type="application/pdf" 
+    width="100%" height="400px" />')
+```
+
++ Chapter 6: 
+  + Intro to Bootstrap 
+```{r, echo=FALSE, out.width = '800px', out.height = '400px', results='asis'}
+cat('<embed src="./Lecture notes/Chapter 6_1.pdf" 
+    type="application/pdf" 
+    width="100%" height="400px" />')
+```
+
+  + Bootstrap Confidence Intervals  
+```{r, echo=FALSE, out.width = '800px', out.height = '400px', results='asis'}
+cat('<embed src="./Lecture notes/Chapter 6_2.pdf" 
+    type="application/pdf" 
+    width="100%" height="400px" />')
+```
+  

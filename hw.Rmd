@@ -1,0 +1,66 @@
+---
+title: "Weekly Homework "
+---
+
++ Assignment 1 
+```{r, echo=FALSE, out.width = '800px', out.height = '800px', results='asis'}
+cat('<embed src="./Assignments/HW1.pdf" 
+    type="application/pdf" 
+    width="100%" height="800px" />')
+```
+ 
++ Assignment 2  
+```{r, echo=FALSE, out.width = '800px', out.height = '800px', results='asis'}
+cat('<embed src="./Assignments/HW2.pdf" 
+    type="application/pdf" 
+    width="100%" height="800px" />')
+```
+
++ Assignment 3
+```{r, echo=FALSE, out.width = '800px', out.height = '800px', results='asis'}
+cat('<embed src="./Assignments/HW3.pdf" 
+    type="application/pdf" 
+    width="100%" height="800px" />')
+```
+
++ Assignment 4 
+```{r, echo=FALSE, out.width = '800px', out.height = '800px', results='asis'}
+cat('<embed src="./Assignments/HW4.pdf" 
+    type="application/pdf" 
+    width="100%" height="800px" />')
+```
+
++ Assignment 5 
+```{r, echo=FALSE, out.width = '800px', out.height = '800px', results='asis'}
+cat('<embed src="./Assignments/HW5.pdf" 
+    type="application/pdf" 
+    width="100%" height="800px" />')
+```
+
++ Assignment 6 
+```{r, echo=FALSE, out.width = '800px', out.height = '800px', results='asis'}
+cat('<embed src="./Assignments/HW6.pdf" 
+    type="application/pdf" 
+    width="100%" height="800px" />')
+```
+
++ Assignment 7 
+```{r, echo=FALSE, out.width = '800px', out.height = '800px', results='asis'}
+cat('<embed src="./Assignments/HW7.pdf" 
+    type="application/pdf" 
+    width="100%" height="800px" />')
+```
+
++ Assignment 8 
+```{r, echo=FALSE, out.width = '800px', out.height = '800px', results='asis'}
+cat('<embed src="./Assignments/HW8.pdf" 
+    type="application/pdf" 
+    width="100%" height="800px" />')
+```
+
++ Assignment 9 
+```{r, echo=FALSE, out.width = '800px', out.height = '800px', results='asis'}
+cat('<embed src="./Assignments/HW9.pdf" 
+    type="application/pdf" 
+    width="100%" height="800px" />')
+```
