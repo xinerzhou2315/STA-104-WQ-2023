@@ -2,7 +2,7 @@
 title: "Lecture notes"
 ---
 
-+ Chapter 1: 
++ Chapter 1: Introduction
   + Parametric and Nonparametric Methods 
 ```{r, echo=FALSE, out.width = '800px', out.height = '400px', results='asis'}
 cat('<embed src="./Lecture notes/Chapter 1_1.pdf" 
@@ -16,7 +16,7 @@ cat('<embed src="./Lecture notes/Chapter 1_2.pdf"
     width="100%" height="400px" />')
 ```
 
-+ Chapter 2: 
++ Chapter 2: One-Sample Methods for Location Problem
   + Wilcoxon Signed Rank Test 
 ```{r, echo=FALSE, out.width = '800px', out.height = '400px', results='asis'}
 cat('<embed src="./Lecture notes/Chapter 2_1.pdf" 
@@ -45,7 +45,7 @@ cat('<embed src="./Lecture notes/Chapter 2_4.pdf"
     width="100%" height="400px" />')
 ```
 
-+ Chapter 3: 
++ Chapter 3: Two-Sample Methods
   + Two-Sample Permutation Test 
 ```{r, echo=FALSE, out.width = '800px', out.height = '400px', results='asis'}
 cat('<embed src="./Lecture notes/Chapter 3_1.pdf" 
@@ -81,7 +81,7 @@ cat('<embed src="./Lecture notes/Chapter 3_5.pdf"
     width="100%" height="400px" />')
 ```
 
-+ Chapter 4: 
++ Chapter 4: One-Way Layout Problems - Nonparametric One-Way Analysis of Variance
   + Kruskal-Wallis Test
 ```{r, echo=FALSE, out.width = '800px', out.height = '400px', results='asis'}
 cat('<embed src="./Lecture notes/Chapter 4_1.pdf" 
@@ -131,7 +131,7 @@ cat('<embed src="./Lecture notes/Chapter 4_7.pdf"
     width="100%" height="400px" />')
 ```
 
-+ Chapter 5: 
++ Chapter 5: Two-Way Layout Problems - Nonparametric Two-Way Analysis of Variance
   + Friedman test for General Alternatives in a Randomized Complete Block Design
 ```{r, echo=FALSE, out.width = '800px', out.height = '400px', results='asis'}
 cat('<embed src="./Lecture notes/Chapter 5_1.pdf" 
@@ -160,7 +160,7 @@ cat('<embed src="./Lecture notes/Chapter 5_4.pdf"
     width="100%" height="400px" />')
 ```
 
-+ Chapter 6: 
++ Chapter 6: Bootstrap 
   + Intro to Bootstrap 
 ```{r, echo=FALSE, out.width = '800px', out.height = '400px', results='asis'}
 cat('<embed src="./Lecture notes/Chapter 6_1.pdf" 
